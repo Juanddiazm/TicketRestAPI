@@ -1,7 +1,8 @@
 # TicketRestAPI
 This project is an implementation of a REST API using .NET core.
 
-.Net core 5.0 is required.
+- The database is hosted on a hosting site.
+- .Net core 5.0 is required.
 
 - To install the dependencies run: 
    
@@ -12,3 +13,5 @@ This project is an implementation of a REST API using .NET core.
 - And to run the project:
   
   dotnet run
+  
+  
